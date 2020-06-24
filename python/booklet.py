@@ -1,0 +1,94 @@
+booklet = [
+{
+	'letter':'a',
+	'word':'apple'
+},{
+	'letter':'b',
+	'word':'ball'
+},
+{
+	'letter':'c',
+	'word':'cat'
+},
+{
+	'letter':'d',
+	'word':'dog'
+},
+{
+	'letter':'e',
+	'word':'elephant'
+},
+{
+	'letter':'f',
+	'word':'fish'
+},
+{
+	'letter':'g',
+	'word':'ghost'
+},
+{
+	'letter':'h',
+	'word':'horse'
+},
+{
+	'letter':'i',
+	'word':'ice'
+},
+{
+	'letter':'j',
+	'word':'joker'
+},
+{
+	'letter':'k',
+	'word':'kite'
+},
+{
+	'letter':'l',
+	'word':'lamb'
+},
+{
+	'letter':'m',
+	'word':'moon'
+},
+{
+	'letter':'n',
+	'word':'nine'
+},{
+	'letter':'o',
+	'word':'ox'
+},{
+	'letter':'p',
+	'word':'pig'
+},{
+	'letter':'q',
+	'word':'queen'
+},{
+	'letter':'r',
+	'word':'ruler'
+},{
+	'letter':'s',
+	'word':'school'
+},{
+	'letter':'t',
+	'word':'train'
+},{
+	'letter':'u',
+	'word':'umbrella'
+},{
+	'letter':'v',
+	'word':'violet'
+},{
+	'letter':'w',
+	'word':'witch'
+},{
+	'letter':'x',
+	'word':'xox'
+},{
+	'letter':'y',
+	'word':'yo-yo'
+},{
+	'letter':'z',
+	'word':'zebra'
+}
+
+]

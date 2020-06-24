@@ -1,0 +1,7 @@
+click
+Flask
+Flask-API
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
